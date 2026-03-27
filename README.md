@@ -1,6 +1,3 @@
-## For now this is just the first draft i am working on it to make it a full fleged code editor . "Just a personal project nothing more"
-
-
 
 # TermX
 
